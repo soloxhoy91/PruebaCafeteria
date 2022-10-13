@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "QhoYRLTkB0FC53SBugc1ziDRsxN1GGmzGCdby5qjOCqQY4BVk/fzeFd9Km5c0O8lzco+/ZFQFfVgjKZkeq4PPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\solox\\Desktop\\GestionCafeteria\\PruebaCafeteria\\GestionCafeteria\\GestionCafeteria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\solox\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0-rc.1.22426.10\\microsoft.win32.systemevents.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\solox\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0-rc.1.22426.10\\system.configuration.configurationmanager.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\solox\\.nuget\\packages\\system.data.oledb\\7.0.0-rc.1.22426.10\\system.data.oledb.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\solox\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0-rc.1.22426.10\\system.diagnostics.performancecounter.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\solox\\.nuget\\packages\\system.drawing.common\\7.0.0-rc.1.22426.10\\system.drawing.common.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\solox\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0-rc.1.22426.10\\system.security.cryptography.protecteddata.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\solox\\.nuget\\packages\\system.security.permissions\\7.0.0-rc.1.22426.10\\system.security.permissions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\solox\\.nuget\\packages\\system.windows.extensions\\7.0.0-rc.1.22426.10\\system.windows.extensions.7.0.0-rc.1.22426.10.nupkg.sha512"
+  ],
+  "logs": []
+}

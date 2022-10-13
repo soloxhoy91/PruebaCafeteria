@@ -1,0 +1,16 @@
+
+*.vsidx
+*.v2
+*.v2
+.vs/GestionCafeteria/v17/.suo
+.vs/GestionCafeteria/DesignTimeBuild/.dtbcache.v2
+.vs/GestionCafeteria/v17/.futdcache.v2
+.vs/GestionCafeteria/v17/.suo
+.vs/ProjectEvaluation/gestioncafeteria.metadata.v5.1
+.vs/ProjectEvaluation/gestioncafeteria.projects.v5.1
+.vs/GestionCafeteria/v17/.suo
+GestionCafeteria/bin/Debug/net6.0-windows/GestionCafeteria.dll
+GestionCafeteria/bin/Debug/net6.0-windows/GestionCafeteria.pdb
+*.editorconfig
+*.json
+*.props
